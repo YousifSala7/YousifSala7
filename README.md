@@ -18,10 +18,14 @@ I enjoy building scalable backend applications with ASP.NET Core and contributin
 
 ### Fallout (.NET Build System)
 
-Merged PR #493
+**Merged PR #493**
 
-- Fixed invalid YAML escaping in GitHub Actions and Azure Pipelines generators.
-- Added regression tests.
-- Refactored duplicated verification logic into a shared helper.
+Fixed an invalid YAML escaping bug affecting GitHub Actions and Azure Pipelines configuration generation.
+
+**Key contributions**
+- Migrated YAML-specific quoting to `SingleQuoteYaml()`.
+- Preserved existing non-YAML behavior.
+- Added regression tests for YAML apostrophe handling.
+- Refactored duplicated test verification logic into a shared helper.
 
 🔗 Pull Request: https://github.com/Fallout-build/Fallout/pull/493

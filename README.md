@@ -1,4 +1,3 @@
-# Yousif Salah
 **Backend Developer (C# / .NET)**
 
 Building production-ready systems and contributing to open-source.

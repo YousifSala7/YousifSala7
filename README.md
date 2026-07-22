@@ -1,7 +1,8 @@
 **Building production-ready systems and contributing to open source.**
 
 - 🎓 Computer Science Graduate
-- 🤝 Open Source Contributor to [Fallout.build](https://github.com/Fallout-build/Fallout) (Merged PRs: [#514](https://github.com/Fallout-build/Fallout/pull/514), [#493](https://github.com/Fallout-build/Fallout/pull/493))
+- 🤝 Open Source Contributor to [Fallout](https://github.com/Fallout-build/Fallout) (Merged PRs: [#514](https://github.com/Fallout-build/Fallout/pull/514), [#493](https://github.com/Fallout-build/Fallout/pull/493))
+
 
 <div align="center">
   <h2>Let's Connect!</h2>
